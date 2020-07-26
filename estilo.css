@@ -1,0 +1,20 @@
+#t1 {
+    color: white;
+    background-color: gold;
+    padding-left: 40%;
+    border: gold;
+    margin: 10px;
+
+}
+#p1{
+    color: gold;
+    padding-left: 20px;
+}
+#p2{
+    color: gold;
+    font-size: 20px;
+    font-weight: bolder;
+}
+body{
+    background-color: white;
+}
